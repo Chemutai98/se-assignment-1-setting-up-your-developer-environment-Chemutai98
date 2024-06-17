@@ -13,8 +13,26 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+- Click download after accessing the link and follow intructions to create installation media
+-Run the downloaded tool
+-open the tool you downloaded
+-Accept license
+-Select "create installation media" for another pc 
+-Click next
+-Choose language and click next
+-use usb flash drive and insert into your pc
+-insert flas into your pc and restart pc, press the appropriate key to enter the BIOS/UEFI set up
+Set your PC to boot from usb drive, save and exit.
+-Select language, time and keyoard preferences
+-Click next and then install now
+-Enter product key and click next
+-Accept terms and lick next
+-Click next and the setup will begin copying files and installing windows
+-The pc will restart and after installation boot the initial screen set up will appear, follow the screen prompts and complete setup
+- Windows will finalize the set up and bring you to the desktop. 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
@@ -26,6 +44,9 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+-Choose the appropriate installer fo your needs. 
+-Recommended installer is MySQL Installer community which has larger files, includes all necessary components.
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
